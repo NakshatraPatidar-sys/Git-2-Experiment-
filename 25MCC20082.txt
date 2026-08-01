@@ -1,0 +1,6 @@
+Name : Nakshatra Patidar
+UID : 25MCC20082
+
+Git Experiment 2
+Question 1
+This is my first Git practical file.
